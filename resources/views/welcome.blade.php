@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Mercury 2.0
                 </div>
 
                 <div class="links">
